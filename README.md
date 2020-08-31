@@ -7,3 +7,4 @@ Matlab implementation for identifying Unbounded Reactions and Thermodynamically 
 ## Dependencies
 * Cobra Toolbox 3.0
 * Gurobi
+* Matlab 2018a
